@@ -8,8 +8,8 @@ There is a widely held belief among basketball fans that players perform better 
 
 Using a custom formula, **Total Value Added (TVA)**, I conducted a statistical analysis on **NBA player performance** during the **2021-2022 season**, categorizing contract statuses and comparing player efficiency metrics.
 
-📄 **[Download the Full Capstone Report (PDF)](./CapstoneFinal_DarrenOlson.pdf)**  
-🎥 **[Watch the Presentation (MP4)](./DarrenOlson_Capstone.mp4)**  
+📄 **[Read the Full Capstone Report (PDF)](./CapstoneFinal_DarrenOlson.pdf)**  
+🎥 **[Download the Presentation (MP4)](./DarrenOlson_Capstone.mp4)**  
 
 ---
 
